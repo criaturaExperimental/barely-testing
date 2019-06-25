@@ -1,0 +1,16 @@
+{
+  "name": "barely-testing",
+  "version": "1.0.0",
+  "author": "Lucas deGomez <lucasdegomez@gmail.com>",
+  "license": "MPL-2.0",
+  "scripts": {
+    "test": "jest",
+    "testTDD": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
